@@ -5,8 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" href="https://github.com/AlekseyCigas/rsschool-cv/blob/rsschool-cv-html/css/index.css">
-
- <title>Document</title>
+<title>Document</title>
   </head>
 <body>
   <header>
@@ -68,8 +67,7 @@
               function sum(a, b) {
                 return a + b;
               } 
-              
-              let result = sum(1, 2);
+             let result = sum(1, 2);
               alert( result );
             </pre>
           </div>
