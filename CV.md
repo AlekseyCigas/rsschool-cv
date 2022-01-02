@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link rel="stylesheet" href="css/index.css">
+<link rel="stylesheet" href="https://github.com/AlekseyCigas/rsschool-cv/blob/rsschool-cv-html/css/index.css">
 
  <title>Document</title>
   </head>
@@ -16,7 +16,7 @@
         <h2 class="h2">Front-end Developer</h2>
       </div>
         <div class="links">
-            <img class="photo" src="/C:/Users/Привет)/Desktop/RS/images/photo-1.jpg"  width="450" height="400" alt="photo">
+            <img class="photo" src="https://github.com/AlekseyCigas/rsschool-cv/blob/rsschool-cv-html/images/photo-1.jpg"  width="450" height="400" alt="photo">
             <nav class="menu">
           <ul>
             <li><a class="link1" href="#">phone: +79819759151</a></li>
@@ -74,7 +74,7 @@
             </pre>
           </div>
           <div class="footer">
-              <a href="https://rs.school/js/"><img class="photo" src="/C:/Users/Привет)/Desktop/RS/images/image-2.svg" alt="photo"></a>
+              <a href="https://rs.school/js/"><https://github.com/AlekseyCigas/rsschool-cv/blob/rsschool-cv-html/images/image-2.svg" alt="photo"></a>
               <p><a href="https://github.com/AlekseyCigas">Github</a></p>
               <p class="year">2021</p>
           </div>
