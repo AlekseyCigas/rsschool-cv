@@ -1,2 +1,5 @@
 # rsschool-cv
-https://github.com/AlekseyCigas/rsschool-cv/blob/rsschool-cv-html/index.html
+https://AlekseyCigas.github.io/rsschool-cv/cv
+https://AlekseyCigas.github.io/rsschool-cv/
+<p><a href="https://AlekseyCigas.github.io/rsschool-cv/cv">CV</a></p>
+ <p><a href="https://AlekseyCigas.github.io/rsschool-cv/">CV</a></p> 
